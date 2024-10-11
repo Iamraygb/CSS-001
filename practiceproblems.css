@@ -1,0 +1,39 @@
+#divid{
+        color: rgb(97, 97, 97);
+        font-family: 'Times New Roman', Times, serif;
+        font-size:25px;
+        font-weight: bold;
+}
+#buttony{
+    font-family: 'Times New Roman', Times, serif;
+}
+#translations{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+.headings{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+#dawn{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ttitle{
+    font-weight: bold;
+    font-weight: 10;
+}
+.French{
+    color: rgb(39, 40, 37);
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+.English{
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* HTML is not character sensitive, but CSS is

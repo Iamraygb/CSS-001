@@ -1,0 +1,24 @@
+.heading-class{
+    color: aquamarine;
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.paras{
+    color: rgb(241, 195, 13);
+    background-color: darkturquoise;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#id1{
+    color: rgb(123, 118, 121);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+    
+}
+
+/* Ctrl then right slash, is how to comment in CSS */
